@@ -1,0 +1,5 @@
+Product Overview
+
+Our SaaS platform helps teams automate customer support with AI.
+Plans: Starter ($29), Pro ($99), Enterprise (custom).
+Support hours: Sunday-Thursday, 9 AM - 6 PM (GMT+3).
